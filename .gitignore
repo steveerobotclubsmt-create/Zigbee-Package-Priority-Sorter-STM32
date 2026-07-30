@@ -1,0 +1,9 @@
+# Mbed / Keil build output
+BUILD/
+.mbed
+*.bin
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db
